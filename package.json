@@ -12,7 +12,7 @@
 		"vue-router": "^4.0.12"
 	},
 	"devDependencies": {
-		"@headlessui/vue": "^1.4.2",
+		"@headlessui/vue": "^1.6.6",
 		"@heroicons/vue": "^1.0.5",
 		"@tailwindcss/aspect-ratio": "^0.3.0",
 		"@tailwindcss/forms": "^0.4.0-alpha.2",
@@ -22,7 +22,7 @@
 		"@vitejs/plugin-vue": "^1.9.4",
 		"autoprefixer": "^10.4.0",
 		"tailwindcss": "^3.0.0-alpha.2",
-		"vite": "^2.6.14"
+		"vite": "^2.9.14"
 	},
 	"license": "MIT"
 }
